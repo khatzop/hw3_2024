@@ -147,7 +147,7 @@ first div in the grid  and place it in the grid. */
 .container > :first-child{
   display: grid;
   grid-column: 1/-1;
-  background-image: url("/images/header.jpg");
+  background-image: url("/hw3_2024/images/header.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
